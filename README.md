@@ -1,6 +1,6 @@
 ## Features
 
-this is template Bootstrap version 4.1.3 without using jQuery version 3 due to lack of problem for my projects.
+This is template Bootstrap version 4.1.3 without using jQuery version 3 due to lack of problem for my projects.
 so here the list of libraries including of this template:
 - There are [index.html](index.html) and [login.html](login.html) pages
 - The page of [enable_javascript.html](enable_javascript.html) is for redirect to its page when JavaScript disabled
