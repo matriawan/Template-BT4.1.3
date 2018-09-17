@@ -1,0 +1,11 @@
+body { 
+	font-family: sans-serif,Arial,Helvetica;
+}
+
+footer {
+	padding: 1.5rem;
+    color: #999;
+    text-align: center;
+    background-color: #F9F9F9;
+    border-top: .05rem solid #E5E5E5;
+}
